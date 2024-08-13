@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Laptop", "harga": "2000", "tahun": "2024", "owner": {"name": "king", "email": "king@example.com"}},
+    { "id": 2, "name": "Hanphone", "harga": "4000", "tahun": "2024", "owner": {"name": "farras", "email": "farras@example.com"}},
+    { "id": 3, "name": "Legion", "harga": "7000", "tahun": "2024", "owner": {"name": "daffa", "email": "daffa@example.com"}},
+    { "id": 4, "name": "Republic", "harga": "12000", "tahun": "2024", "owner": {"name": "cadel", "email": "cadel@example.com"}},
+    { "id": 5, "name": "Logitech", "harga": "26000", "tahun": "2024", "owner": {"name": "cagur", "email": "cagur@example.com"}}
+]
